@@ -11,9 +11,6 @@ dotenv.config({ path: "../.env" });
 import Query from "../models/Queries.model.js";
 import Blog from "../models/Blogs.model.js";
 // import { describe } from "@hapi/joi/lib/base.js";
-import userModel from '../models/userModel';
-
-import cloudinary from "cloudinary"
 // import UpdateOne from "../controllers/userController";
 
 
