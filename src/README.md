@@ -1,0 +1,1 @@
+[![Coverage Status](https://coveralls.io/repos/github/gahuza/MYY-Brand/badge.svg?branch=main)](https://coveralls.io/github/gahuza/MYY-Brand?branch=main)
